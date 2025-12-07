@@ -37,3 +37,7 @@ Automated end-to-end testing for the *SauceDemo E-commerce website* using
 ---
 
 ## 📂 Project Structure
+
+src/test/java ├─ base │    └─ BaseTest.java ├─ pages │    ├─ LoginPage.java │    ├─ ProductsPage.java │    ├─ CartPage.java │    └─ CheckoutPage.java └─ tests └─ E2ECheckoutTest.java
+
+pom.xml testng.xml
