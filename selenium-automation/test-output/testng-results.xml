@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-12-07T16:58:14 IST" name="E-Commerce Suite" finished-at="2025-12-07T16:58:49 IST" duration-ms="35426">
+    <groups>
+    </groups>
+    <test started-at="2025-12-07T16:58:14 IST" name="Checkout Tests" finished-at="2025-12-07T16:58:49 IST" duration-ms="35426">
+      <class name="tests.E2ECheckoutTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.E2ECheckoutTest@47eaca72]" started-at="2025-12-07T16:58:14 IST" name="setUp" finished-at="2025-12-07T16:58:20 IST" duration-ms="6561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testAddMultipleProductsToCart()[pri:0, instance:tests.E2ECheckoutTest@47eaca72]" started-at="2025-12-07T16:58:20 IST" name="testAddMultipleProductsToCart" finished-at="2025-12-07T16:58:25 IST" duration-ms="4426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddMultipleProductsToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.E2ECheckoutTest@47eaca72]" started-at="2025-12-07T16:58:25 IST" name="tearDown" finished-at="2025-12-07T16:58:25 IST" duration-ms="521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.E2ECheckoutTest@47eaca72]" started-at="2025-12-07T16:58:25 IST" name="setUp" finished-at="2025-12-07T16:58:29 IST" duration-ms="4166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testInvalidLoginShowsErrorMessage()[pri:0, instance:tests.E2ECheckoutTest@47eaca72]" started-at="2025-12-07T16:58:29 IST" name="testInvalidLoginShowsErrorMessage" finished-at="2025-12-07T16:58:31 IST" duration-ms="1383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvalidLoginShowsErrorMessage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.E2ECheckoutTest@47eaca72]" started-at="2025-12-07T16:58:31 IST" name="tearDown" finished-at="2025-12-07T16:58:31 IST" duration-ms="436" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.E2ECheckoutTest@47eaca72]" started-at="2025-12-07T16:58:31 IST" name="setUp" finished-at="2025-12-07T16:58:34 IST" duration-ms="2893" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testRemoveItemFromCart()[pri:0, instance:tests.E2ECheckoutTest@47eaca72]" started-at="2025-12-07T16:58:34 IST" name="testRemoveItemFromCart" finished-at="2025-12-07T16:58:36 IST" duration-ms="2341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRemoveItemFromCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.E2ECheckoutTest@47eaca72]" started-at="2025-12-07T16:58:37 IST" name="tearDown" finished-at="2025-12-07T16:58:37 IST" duration-ms="435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.E2ECheckoutTest@47eaca72]" started-at="2025-12-07T16:58:37 IST" name="setUp" finished-at="2025-12-07T16:58:40 IST" duration-ms="3307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSuccessfulCheckoutFlow()[pri:0, instance:tests.E2ECheckoutTest@47eaca72]" started-at="2025-12-07T16:58:40 IST" name="testSuccessfulCheckoutFlow" finished-at="2025-12-07T16:58:44 IST" duration-ms="3284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSuccessfulCheckoutFlow -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.E2ECheckoutTest@47eaca72]" started-at="2025-12-07T16:58:44 IST" name="tearDown" finished-at="2025-12-07T16:58:44 IST" duration-ms="432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.E2ECheckoutTest@47eaca72]" started-at="2025-12-07T16:58:44 IST" name="setUp" finished-at="2025-12-07T16:58:47 IST" duration-ms="2902" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testValidLoginNavigatesToProductsPage()[pri:0, instance:tests.E2ECheckoutTest@47eaca72]" started-at="2025-12-07T16:58:47 IST" name="testValidLoginNavigatesToProductsPage" finished-at="2025-12-07T16:58:49 IST" duration-ms="1764" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidLoginNavigatesToProductsPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.E2ECheckoutTest@47eaca72]" started-at="2025-12-07T16:58:49 IST" name="tearDown" finished-at="2025-12-07T16:58:49 IST" duration-ms="386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.E2ECheckoutTest -->
+    </test> <!-- Checkout Tests -->
+  </suite> <!-- E-Commerce Suite -->
+</testng-results>
